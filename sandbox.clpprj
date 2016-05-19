@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="C:\wamp\www\sandbox\sandbox.clpprj">
+	<settings><PM_URL><![CDATA[http://localhost/sandbox/]]></PM_URL><PM_HOME_URL><![CDATA[http://localhost/sandbox/]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";"/><added value=""/><errors version="4.5">
+	</errors>
+	<codestructure version="4.6.1">
+		<phptree>
+			<treenode node="login.php;PHP:PHP Include;Codelobster8.php;f14;2;23;2;;C:\wamp\www\sandbox\sqltest.php;f14;2;23;2;;C:\wamp\www\sandbox\DescribeDBTable.php;f14;2;23;2;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="Camaro;PHP:Class Name;C:\wamp\www\sandbox\index.php;f0;28;1;48;;;;vpos;;v;;r;;d13,28;;b0,0;;m">
+				<treenode node="__construct;PHP:Function Name;C:\wamp\www\sandbox\index.php;f1;34;2;36;;;;vpos;;v;;r;;d24,34;;b0,0;;m">
+				</treenode>
+				<treenode node="ss;PHP:Function Name;C:\wamp\www\sandbox\index.php;f1;43;2;46;;;;vpos;;v;;r;;d15,43;;b0,0;;m">
+					<treenode node="options;PHP:Var Name;C:\wamp\www\sandbox\index.php;f2;44;10;44;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+				</treenode>
+				<treenode node="z28;PHP:Function Name;C:\wamp\www\sandbox\index.php;f1;38;2;42;;;;vpos;;v;;r;;d1,39;;b0,0;;mtires;;pcolor;;ptrim;;p">
+					<treenode node="color;PHP:Var Name;C:\wamp\www\sandbox\index.php;f22;38;28;38;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="options;PHP:Var Name;C:\wamp\www\sandbox\index.php;f1;40;9;40;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="tires;PHP:Var Name;C:\wamp\www\sandbox\index.php;f14;38;20;38;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="trim;PHP:Var Name;C:\wamp\www\sandbox\index.php;f30;38;35;38;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+				</treenode>
+				<treenode node="color;PHP:Var Name;C:\wamp\www\sandbox\index.php;f8;31;14;31;;;;vpos;;v;;r;;d-1,-1;;b1,0;;m">
+				</treenode>
+				<treenode node="tires;PHP:Var Name;C:\wamp\www\sandbox\index.php;f8;30;14;30;;;;vpos;;v;;r;;d-1,-1;;b1,0;;m">
+				</treenode>
+				<treenode node="trim;PHP:Var Name;C:\wamp\www\sandbox\index.php;f8;32;13;32;;;;vpos;;v;;r;;d-1,-1;;b1,0;;m">
+				</treenode>
+			</treenode>
+			<treenode node="sanitizeString;PHP:Function Name;Codelobster4.php;f0;34;1;40;;C:\wamp\www\sandbox\convert.php;f0;34;1;40;;;;vpos;;v;;r;;d0,35;;b0,0;;mvar;;p">
+				<treenode node="var;PHP:Var Name;Codelobster4.php;f24;34;28;34;;C:\wamp\www\sandbox\convert.php;f24;34;28;34;;C:\wamp\www\sandbox\convert.php;f24;34;28;34;;C:\wamp\www\sandbox\convert.php;f24;34;28;34;;C:\wamp\www\sandbox\convert.php;f24;34;28;34;;C:\wamp\www\sandbox\convert.php;f24;34;28;34;;;;vposstring;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</treenode>
+			<treenode node="_FILES;PHP:Var Name;Codelobster5.php;f4;8;11;8;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="_POST;PHP:Var Name;Codelobster8.php;f9;7;15;7;;Codelobster10.php;f9;1;15;1;;Codelobster2.php;f10;2;16;2;;Codelobster4.php;f10;2;16;2;;C:\wamp\www\sandbox\sqltest.php;f9;7;15;7;;C:\wamp\www\sandbox\formtest.php;f10;2;16;2;;C:\wamp\www\sandbox\issettest.php;f9;1;15;1;;C:\wamp\www\sandbox\convert.php;f10;2;16;2;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="author;PHP:Var Name;Codelobster8.php;f0;22;7;22;;C:\wamp\www\sandbox\sqltest.php;f0;22;7;22;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="bill;PHP:Var Name;C:\wamp\www\sandbox\index.php;f0;8;5;8;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="bob;PHP:Var Name;C:\wamp\www\sandbox\index.php;f0;20;4;20;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="c;PHP:Var Name;Codelobster4.php;f5;1;7;1;;C:\wamp\www\sandbox\convert.php;f5;1;7;1;;;;vposint;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="cam;PHP:Var Name;C:\wamp\www\sandbox\index.php;f0;4;4;4;;;;vposCamaro;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="category;PHP:Var Name;Codelobster8.php;f0;24;9;24;;C:\wamp\www\sandbox\sqltest.php;f0;24;9;24;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="cmd;PHP:Var Name;Codelobster6.php;f0;2;4;2;;C:\wamp\www\sandbox\exec.php;f0;2;4;2;;;;vposstring;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="conn;PHP:Var Name;Codelobster8.php;f0;3;5;3;;C:\wamp\www\sandbox\sqltest.php;f0;3;5;3;;C:\wamp\www\sandbox\DescribeDBTable.php;f1;8;6;8;;;;vposmysqli;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="db;PHP:Var Name;Codelobster9.php;f0;3;3;3;;Codelobster8.php;f34;3;37;3;;C:\wamp\www\sandbox\login.php;f0;3;3;3;;C:\wamp\www\sandbox\sqltest.php;f34;3;37;3;;C:\wamp\www\sandbox\DescribeDBTable.php;f35;8;38;8;;;;vposDatabase;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="dbo;PHP:Var Name;Codelobster7.php;f0;2;4;2;;C:\wamp\www\sandbox\sandbox1.php;f0;2;4;2;;;;vposPDO;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="e;PHP:Var Name;Codelobster7.php;f20;4;22;4;;C:\wamp\www\sandbox\sandbox1.php;f20;4;22;4;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="f;PHP:Var Name;Codelobster4.php;f0;1;2;1;;C:\wamp\www\sandbox\convert.php;f0;1;2;1;;;;vposint;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="fh;PHP:Var Name;C:\wamp\www\sandbox\index.php;f0;81;3;81;;;;vposresource;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="hn;PHP:Var Name;Codelobster9.php;f0;2;3;2;;Codelobster8.php;f19;3;22;3;;C:\wamp\www\sandbox\login.php;f0;2;3;2;;C:\wamp\www\sandbox\sqltest.php;f19;3;22;3;;C:\wamp\www\sandbox\DescribeDBTable.php;f20;8;23;8;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="insertid;PHP:Var Name;C:\wamp\www\sandbox\DescribeDBTable.php;f0;120;9;120;;;;vposmixed;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="isbn;PHP:Var Name;Codelobster8.php;f1;9;6;9;;C:\wamp\www\sandbox\sqltest.php;f1;9;6;9;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="j;PHP:Var Name;Codelobster8.php;f5;48;7;48;;C:\wamp\www\sandbox\sqltest.php;f5;48;7;48;;C:\wamp\www\sandbox\DescribeDBTable.php;f6;31;8;31;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="k;PHP:Var Name;C:\wamp\www\sandbox\DescribeDBTable.php;f6;36;8;36;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="line;PHP:Var Name;Codelobster6.php;f20;11;25;11;;C:\wamp\www\sandbox\exec.php;f20;11;25;11;;C:\wamp\www\sandbox\index.php;f0;95;5;95;;;;vposstring;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="name;PHP:Var Name;Codelobster5.php;f0;10;5;10;;Codelobster2.php;f1;3;6;3;;C:\wamp\www\sandbox\formtest.php;f1;3;6;3;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="out;PHP:Var Name;Codelobster4.php;f0;7;4;7;;C:\wamp\www\sandbox\convert.php;f0;7;4;7;;;;vposint;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="output;PHP:Var Name;Codelobster6.php;f27;4;34;4;;C:\wamp\www\sandbox\exec.php;f27;4;34;4;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="pw;PHP:Var Name;Codelobster9.php;f0;5;3;5;;Codelobster8.php;f29;3;32;3;;C:\wamp\www\sandbox\login.php;f0;5;3;5;;C:\wamp\www\sandbox\sqltest.php;f29;3;32;3;;C:\wamp\www\sandbox\DescribeDBTable.php;f30;8;33;8;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="query;PHP:Var Name;Codelobster7.php;f4;29;10;29;;Codelobster8.php;f1;10;7;10;;C:\wamp\www\sandbox\sandbox1.php;f4;29;10;29;;C:\wamp\www\sandbox\sqltest.php;f1;10;7;10;;C:\wamp\www\sandbox\DescribeDBTable.php;f1;10;7;10;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="result;PHP:Var Name;Codelobster8.php;f1;11;8;11;;C:\wamp\www\sandbox\sqltest.php;f1;11;8;11;;C:\wamp\www\sandbox\DescribeDBTable.php;f1;17;8;17;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="results;PHP:Var Name;Codelobster7.php;f4;34;12;34;;C:\wamp\www\sandbox\sandbox1.php;f4;34;12;34;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="row;PHP:Var Name;Codelobster8.php;f0;51;4;51;;C:\wamp\www\sandbox\sqltest.php;f0;51;4;51;;C:\wamp\www\sandbox\DescribeDBTable.php;f1;34;5;34;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="rows;PHP:Var Name;Codelobster8.php;f0;47;5;47;;C:\wamp\www\sandbox\sqltest.php;f0;47;5;47;;C:\wamp\www\sandbox\DescribeDBTable.php;f1;29;6;29;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="sql;PHP:Var Name;Codelobster7.php;f4;23;8;23;;C:\wamp\www\sandbox\sandbox1.php;f4;23;8;23;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="status;PHP:Var Name;Codelobster6.php;f36;4;43;4;;C:\wamp\www\sandbox\exec.php;f36;4;43;4;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="text;PHP:Var Name;C:\wamp\www\sandbox\index.php;f0;82;5;82;;;;vposint;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="title;PHP:Var Name;Codelobster8.php;f0;23;6;23;;C:\wamp\www\sandbox\sqltest.php;f0;23;6;23;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="un;PHP:Var Name;Codelobster9.php;f0;4;3;4;;Codelobster8.php;f24;3;27;3;;C:\wamp\www\sandbox\login.php;f0;4;3;4;;C:\wamp\www\sandbox\sqltest.php;f24;3;27;3;;C:\wamp\www\sandbox\DescribeDBTable.php;f25;8;28;8;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="x;PHP:Var Name;Codelobster7.php;f29;35;31;35;;C:\wamp\www\sandbox\sandbox1.php;f29;35;31;35;;C:\wamp\www\sandbox\index.php;f17;10;19;10;;C:\wamp\www\sandbox\DescribeDBTable.php;f0;4;2;4;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="year;PHP:Var Name;Codelobster8.php;f0;25;5;25;;C:\wamp\www\sandbox\sqltest.php;f0;25;5;25;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+		</phptree>
+		<jstree>
+			<treenode node="displayItems;JS:Function Name;Codelobster1.php;f0;17;2;22;;;;vpos;;v;;r;;d1,18;;b0,0;;m">
+				<treenode node="displayItems;JS:JS Var Name;Codelobster1.php;f17;19;29;19;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="document;JS:JS Var Name;Codelobster1.php;f3;20;11;20;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="j;JS:JS Var Name;Codelobster1.php;f6;19;7;19;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</treenode>
+			<treenode node="test;JS:Function Name;Codelobster1.php;f0;2;2;7;;;;vpos;;v;;r;;d1,3;;b0,0;;m">
+				<treenode node="a;JS:JS Var Name;Codelobster1.php;f2;4;3;4;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="b;JS:JS Var Name;Codelobster1.php;f6;5;7;5;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="c;JS:JS Var Name;Codelobster1.php;f20;6;21;6;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</treenode>
+			<treenode node="a;JS:JS Var Name;Codelobster1.php;f12;11;13;11;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="b;JS:JS Var Name;Codelobster1.php;f12;12;13;12;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="c;JS:JS Var Name;Codelobster1.php;f12;13;13;13;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="document;JS:JS Var Name;Codelobster1.php;f30;11;38;11;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="url;JS:JS Var Name;Codelobster1.php;f3;42;6;42;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+		</jstree>
+		<scsstree>
+		</scsstree>
+		<lesstree>
+		</lesstree>
+	</codestructure><cakedata>
+	</cakedata>
+	<dplmenupath>
+	</dplmenupath><smartyassings>
+	</smartyassings><yiidata>
+	</yiidata>
+	<todoblock>
+	</todoblock>
+	<filescache>
+		<file name="C:\wamp\www\sandbox\upload.php" crc="107798213"/>
+		<file name="C:\wamp\www\sandbox\testfile2.txt" crc="-1861939240"/>
+		<file name="C:\wamp\www\sandbox\testfile.txt" crc="703177331"/>
+		<file name="C:\wamp\www\sandbox\sqltest.php" crc="-1303871078"/>
+		<file name="C:\wamp\www\sandbox\sandbox1.php" crc="1817662473"/>
+		<file name="C:\wamp\www\sandbox\phpinfo.php" crc="-435721438"/>
+		<file name="C:\wamp\www\sandbox\login.php" crc="-1766664540"/>
+		<file name="C:\wamp\www\sandbox\issettest.php" crc="1816471183"/>
+		<file name="C:\wamp\www\sandbox\index.php" crc="-89088506"/>
+		<file name="C:\wamp\www\sandbox\formtest.php" crc="-279226975"/>
+		<file name="C:\wamp\www\sandbox\exec.php" crc="950223171"/>
+		<file name="C:\wamp\www\sandbox\DescribeDBTable.php" crc="361750544"/>
+		<file name="C:\wamp\www\sandbox\convert.php" crc="-1871153840"/>
+	</filescache>
+</project>
