@@ -1,2 +1,6 @@
 
 add to line 2
+=======
+This is just a text file
+not a tes file
+
