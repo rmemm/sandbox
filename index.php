@@ -114,5 +114,6 @@ fwrite($fh, "$text") or die("Could not write to file");
 fclose($fh);
 echo "File 'testfile.txt' successfully updated";
 
+echo "some text" . "</br>";
 
 ?>
